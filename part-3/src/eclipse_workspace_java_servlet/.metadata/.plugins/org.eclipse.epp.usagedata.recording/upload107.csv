@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.wst.xsd.core,1.1.401.v200903020335,"org.eclipse.wst.xsd.core",1372186101234
+started,bundle,org.eclipse.wst.xsl.core,1.0.1.v200908101420,"org.eclipse.wst.xsl.core",1372186101562
+started,bundle,com.android.ide.eclipse.ddms,8.0.1.v201012062107-82219,"com.android.ide.eclipse.ddms",1372186101843
+started,bundle,org.eclipse.wst.css.core,1.1.300.v200904131653,"org.eclipse.wst.css.core",1372186102078
+started,bundle,org.eclipse.wst.common.uriresolver,1.1.301.v200805140415,"org.eclipse.wst.common.uriresolver",1372186102109
+started,bundle,com.android.ide.eclipse.adt,8.0.1.v201012062107-82219,"com.android.ide.eclipse.adt",1372186102468
+started,bundle,org.eclipse.wst.internet.cache,1.0.301.v200805140020,"org.eclipse.wst.internet.cache",1372186103062
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1372186149343
+started,bundle,org.eclipse.debug.ui,3.5.1.v20090811_r351,"org.eclipse.debug.ui",1372186158328
+started,bundle,org.eclipse.jdt.debug,3.5.0.v20090526,"org.eclipse.jdt.debug",1372186158703
+started,bundle,org.eclipse.jdt.debug.ui,3.4.1.v20090811_r351,"org.eclipse.jdt.debug.ui",1372186159000
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1372186159140
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1372186161937
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1372186163015
+started,bundle,org.eclipse.jst.server.generic.core,1.0.506.v20090817,"org.eclipse.jst.server.generic.core",1372186163187
+started,bundle,org.eclipse.jst.server.preview.adapter,1.1.0.v20090311b,"org.eclipse.jst.server.preview.adapter",1372186163203
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1372186166859
+opened,view,org.eclipse.wst.server.ui,1.1.103.v20090909,"org.eclipse.wst.server.ui.ServersView",1372186167109
+started,bundle,org.eclipse.jst.server.tomcat.ui,1.1.102.v20090424,"org.eclipse.jst.server.tomcat.ui",1372186167296
+started,bundle,org.eclipse.core.variables,3.2.200.v20090521,"org.eclipse.core.variables",1372186167500
+error,log,,,"Error starting server Tomcat v5.5 Server at localhost",1372186175062
+error,log,,,"Several ports (8005, 8080, 8009) required by Tomcat v5.5 Server at localhost are already in use. The server may already be running in another process, or a system process may be using the port. To start this server you will need to stop the other process or change the port number(s).",1372186175062
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1372186175265
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1372186180781
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1372186185312

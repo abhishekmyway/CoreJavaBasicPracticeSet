@@ -1,0 +1,7 @@
+class HelloAgain
+{
+	public static void main(Strig[] args)
+	{
+		System.out.println("Hello again");
+	}
+}

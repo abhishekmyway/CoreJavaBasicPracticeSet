@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.wst.jsdt.manipulation,1.0.100.v200809240707,"org.eclipse.wst.jsdt.manipulation",1372186095359
+started,bundle,org.eclipse.wst.jsdt.ui,1.0.200.v200905242047,"org.eclipse.wst.jsdt.ui",1372186095359
+started,bundle,org.eclipse.wst.jsdt.web.core,1.0.200.v200905120445,"org.eclipse.wst.jsdt.web.core",1372186095390
+started,bundle,org.eclipse.wst.server.core,1.1.102.v20090825,"org.eclipse.wst.server.core",1372186095421
+started,bundle,org.eclipse.wst.server.ui,1.1.103.v20090909,"org.eclipse.wst.server.ui",1372186095468
+started,bundle,org.eclipse.wst.sse.core,1.1.401.v200909172215,"org.eclipse.wst.sse.core",1372186095468
+started,bundle,org.eclipse.wst.validation,1.2.102.v200905201610,"org.eclipse.wst.validation",1372186095468
+started,bundle,org.eclipse.wst.web,1.1.301.v200909021400,"org.eclipse.wst.web",1372186095500
+started,bundle,org.eclipse.wst.xml.core,1.1.401.v200908242115,"org.eclipse.wst.xml.core",1372186095578
+os,sysinfo,,,"win32",1372186095593
+arch,sysinfo,,,"x86",1372186095593
+ws,sysinfo,,,"win32",1372186095593
+locale,sysinfo,,,"en_US",1372186095593
+processors,sysinfo,,,"2",1372186095593
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1372186095593
+java.runtime.version,sysinfo,,,"1.7.0_17-b02",1372186095593
+java.specification.name,sysinfo,,,"Java Platform API Specification",1372186095593
+java.specification.vendor,sysinfo,,,"Oracle Corporation",1372186095593
+java.specification.version,sysinfo,,,"1.7",1372186095593
+java.vendor,sysinfo,,,"Oracle Corporation",1372186095593
+java.version,sysinfo,,,"1.7.0_17",1372186095593
+java.vm.info,sysinfo,,,"mixed mode, sharing",1372186095593
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1372186095593
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1372186095593
+java.vm.specification.vendor,sysinfo,,,"Oracle Corporation",1372186095593

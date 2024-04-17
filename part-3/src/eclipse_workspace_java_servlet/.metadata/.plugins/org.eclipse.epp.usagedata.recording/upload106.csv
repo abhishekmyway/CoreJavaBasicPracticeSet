@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+java.vm.specification.version,sysinfo,,,"1.7",1372186095593
+java.vm.vendor,sysinfo,,,"Oracle Corporation",1372186095593
+java.vm.version,sysinfo,,,"23.7-b01",1372186095593
+started,bundle,org.eclipse.mylyn.context.core,3.2.2.v20090912-0400-e3x,"org.eclipse.mylyn.context.core",1372186095609
+started,bundle,org.eclipse.mylyn.context.ui,3.2.2.v20090912-0400-e3x,"org.eclipse.mylyn.context.ui",1372186095750
+started,bundle,org.eclipse.mylyn.tasks.ui,3.2.2.v20090912-0400-e3x,"org.eclipse.mylyn.tasks.ui",1372186096125
+started,bundle,org.eclipse.mylyn.team.ui,3.2.2.v20090912-0400-e3x,"org.eclipse.mylyn.team.ui",1372186096203
+started,bundle,org.eclipse.update.scheduler,3.2.200.v20081127,"org.eclipse.update.scheduler",1372186096265
+started,bundle,org.eclipse.update.core,3.2.300.v20090525,"org.eclipse.update.core",1372186096375
+started,bundle,org.eclipse.wst.ws.service.policy.ui,1.0.102.v200903070248,"org.eclipse.wst.ws.service.policy.ui",1372186096390
+started,bundle,org.eclipse.mylyn.monitor.ui,3.2.2.v20090912-0400-e3x,"org.eclipse.mylyn.monitor.ui",1372186096406
+started,bundle,org.eclipse.jsch.core,1.1.100.I20090430-0408,"org.eclipse.jsch.core",1372186097031
+started,bundle,org.eclipse.team.cvs.core,3.3.200.I20090430-0408,"org.eclipse.team.cvs.core",1372186097046
+started,bundle,org.eclipse.team.cvs.ui,3.3.201.R35x_v20090826-0905,"org.eclipse.team.cvs.ui",1372186098015
+started,bundle,org.eclipse.jdt.apt.core,3.3.201.R35x_v20090818-0235,"org.eclipse.jdt.apt.core",1372186098218
+started,bundle,org.eclipse.jdt.apt.pluggable.core,1.0.201.R35x_v20090818-0225,"org.eclipse.jdt.apt.pluggable.core",1372186098250
+started,bundle,org.eclipse.wst.html.core,1.1.300.v200903120608,"org.eclipse.wst.html.core",1372186099578
+started,bundle,org.eclipse.wst.dtd.core,1.1.300.v200904181727,"org.eclipse.wst.dtd.core",1372186099625
+started,bundle,org.eclipse.wst.sse.ui,1.1.101.v200908261807,"org.eclipse.wst.sse.ui",1372186099640
+started,bundle,org.eclipse.wst.html.ui,1.0.401.v200908111935,"org.eclipse.wst.html.ui",1372186099656
+started,bundle,org.eclipse.wst.wsi.ui,1.0.500.v200901141851,"org.eclipse.wst.wsi.ui",1372186099671
+started,bundle,org.eclipse.jst.servlet.ui,1.1.301.v200908101600,"org.eclipse.jst.servlet.ui",1372186099812
+started,bundle,org.eclipse.jst.jsp.core,1.2.203.v200908241513,"org.eclipse.jst.jsp.core",1372186100234
+started,bundle,org.eclipse.pde.core,3.5.100.v20090821,"org.eclipse.pde.core",1372186100265
+started,bundle,org.eclipse.wst.wsdl.validation,1.1.401.v200902271605,"org.eclipse.wst.wsdl.validation",1372186100703

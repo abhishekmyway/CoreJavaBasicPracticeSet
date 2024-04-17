@@ -1,0 +1,16 @@
+class G
+{
+	private G()
+	{
+	}
+	G(int)
+	{
+	}
+}
+class H extends G
+{
+	H()
+	{
+		super(10);
+	}
+}

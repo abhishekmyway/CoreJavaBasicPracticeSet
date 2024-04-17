@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,editor,org.eclipse.wst.xml.ui,1.1.1.v200908242115,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1372188490687
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.paste",1372188492953
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1372188533875
+opened,editor,org.eclipse.wst.xml.ui,1.1.1.v200908242115,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1372188540375
+started,bundle,org.eclipse.xsd,2.5.0.v200906151043,"org.eclipse.xsd",1372188540484
+activated,editor,org.eclipse.wst.xml.ui,1.1.1.v200908242115,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1372188540500
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.copy",1372188546250
+activated,editor,org.eclipse.wst.xml.ui,1.1.1.v200908242115,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1372188548187
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.paste",1372188550093
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1372188551703
+closed,editor,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser.editor",1372188554531
+activated,view,org.eclipse.wst.server.ui,1.1.103.v20090909,"org.eclipse.wst.server.ui.ServersView",1372188569843
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1372188580984
+activated,view,org.eclipse.wst.server.ui,1.1.103.v20090909,"org.eclipse.wst.server.ui.ServersView",1372188582359
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1372188582500
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1372188582578
+error,log,,,"Could not launch in profiling mode because no profilers are configured.",1372188582593
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1372188585828
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1372188591062
+started,bundle,org.eclipse.wst.ws.service.policy,1.0.103.v200905151848,"org.eclipse.wst.ws.service.policy",1372188592750
+started,bundle,org.eclipse.wst.command.env,1.0.408.v200903110045,"org.eclipse.wst.command.env",1372188592984
+started,bundle,org.eclipse.wst.ws,1.1.103.v200903111822,"org.eclipse.wst.ws",1372188593000
+started,bundle,org.eclipse.compare,3.5.0.I20090514-0808,"org.eclipse.compare",1372188593515
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1372188604843
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1372188609406

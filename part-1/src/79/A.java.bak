@@ -1,0 +1,9 @@
+class A
+{
+	static int i;
+	static void test()
+	{
+		System.out.println("from test:"+i);
+		System.out.println("from test:"+A.i);
+	}
+}
